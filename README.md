@@ -1,6 +1,6 @@
 # SAMOSA_ZMW_Selector_Script
-Enhanced zmw_selector.py: Refined the original script to improve efficiency and functionality. 
-New run_zmw_selector.sh: Added a shell script for streamlined execution of the Python script, including environment setup and error detection.
+1) Enhanced zmw_selector.py: Refined the original script to improve efficiency and functionality. 
+2) New run_zmw_selector.sh: Added a shell script for streamlined execution of the Python script, including environment setup and error detection.
 
 # SAMOSA ZMW Selector
 
@@ -26,7 +26,7 @@ This repository contains the refined `zmw_selector.py` script and the newly adde
 
 - Conda installed and configured.
 - Jupyter Notebook installed.
-- Required Python packages listed in `zmw_selector_newest.py` import section (provided in the repository).
+- Required Python packages listed in `zmw_selector_updated.py` import section (provided in the repository).
 
 
 
